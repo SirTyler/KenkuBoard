@@ -25,3 +25,8 @@ hs_err_pid*
 # data files
 *.data
 *.data_default
+
+# eclipse files
+.classpath
+.project
+.settings/*
